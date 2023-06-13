@@ -14,4 +14,4 @@ Wastify is a mobile application that helps users detect various types of waste, 
 ## Repositories
 - [Mobile Development](https://github.com/isfan17/wastify-app)
 - Cloud Computing
-- Machine Learning
+- [Machine Learning](https://github.com/fathinrahma/Wastify)
